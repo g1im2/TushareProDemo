@@ -57,3 +57,6 @@ captures/
 
 # build out data file
 data/
+
+# ignore token file
+*.token
